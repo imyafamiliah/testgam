@@ -1,0 +1,2 @@
+E:\Рабочий стол\gamedev\game4\Debug\game4.exe
+E:\Рабочий стол\gamedev\game4\Debug\game4.pdb
